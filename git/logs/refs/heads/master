@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f139e9f766f5b2c2ec089b427a16ad7cf4b81330 AvatechNG <techissued@gmail.com> 1536945592 +0100	commit (initial): Initial Commit
+f139e9f766f5b2c2ec089b427a16ad7cf4b81330 dee0dfedd55cdc6e6fe9489e24eac47394517d47 AvatechNG <techissued@gmail.com> 1536945952 +0100	pull origin master --allow-unrelated-histories: Merge made by the 'recursive' strategy.
+dee0dfedd55cdc6e6fe9489e24eac47394517d47 32f8ef68b4897b10e686d7eba4f81c3e0d4562f9 AvatechNG <techissued@gmail.com> 1536946852 +0100	commit: Update
+32f8ef68b4897b10e686d7eba4f81c3e0d4562f9 b7acb7975b2643387fd4cf5555d29ef58b97b1e9 AvatechNG <techissued@gmail.com> 1538770074 +0100	commit: my first commit
+b7acb7975b2643387fd4cf5555d29ef58b97b1e9 b2c3284233474e790e8278a7fff97ebd8951348b AvatechNG <techissued@gmail.com> 1538770192 +0100	commit: Heroku Procfile
